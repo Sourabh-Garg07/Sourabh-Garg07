@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sourabh-Garg07
 - 👀 I’m interested in Data Analysis and Data Insights
 - 📫 Reach me on my email souravgarg862@gmail.com
+- 👀 Take a look at my projects
   
 
 <!---
